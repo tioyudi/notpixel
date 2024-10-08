@@ -12,6 +12,7 @@ Cara Penggunaan
 3. run bot dengan perintah python main.py
 
 ########Note########
+
 Tgdata hanya bertahan kurang lebih 30 menit maka jika Tgdata atau token expired ambil ulang kembali
 
 Enjoy
